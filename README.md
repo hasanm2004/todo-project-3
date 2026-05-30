@@ -5,7 +5,7 @@ A simple and interactive To-Do List Application built using HTML, CSS, and JavaS
 Live Demo:
 
 GitHub Repository:
-https://github.com/hasanm2004/
+https://github.com/hasanm2004/todo-project-3.git
 
 Project Link:
 https://hasanm2004.github.io/todo-project-3/
